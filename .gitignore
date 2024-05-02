@@ -1,0 +1,6 @@
+# ignore everything
+*
+
+# Include only these files
+!/.gitignore
+!pandas_cheat_sheet.ipynb
